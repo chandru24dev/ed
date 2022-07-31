@@ -97,7 +97,7 @@ color:#fff;
     width: 980px;
     margin: auto;
     text-align: center;
-    padding-top: 730px;
+    padding-top: 800px;
 }
 
 h1{
@@ -133,6 +133,12 @@ p{
     font-weight: 600;
     margin: 10px;
 }
+.coursecol{
+    background-color: burlywood!important;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+ }
 
 .course-col:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.3);
