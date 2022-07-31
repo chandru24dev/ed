@@ -281,4 +281,6 @@ padding-top: 100px;
         text-align: center;
         padding-top: 730px;
     }
-    
+    .navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
